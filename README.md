@@ -7,8 +7,9 @@ cworkers ist ein Python Package, das eine simple 'simpy' Simulation startetund k
 
 Das Package kann dann ganz einfach wie folgt geladen und die modules benutzt werden:
 
-  ``#load package``
-  ``import cworkers``
+  ```Python
+    #load package
+    import cworkers
 
-  ``#run worker simulation``
-  ``cworkers.work()``
+    #run worker simulation
+    cworkers.work()```
