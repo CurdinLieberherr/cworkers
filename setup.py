@@ -10,7 +10,6 @@ setup(
     install_requires=[ 
         'numpy', 
         'pandas', 
-        'simpy',
-        'random'
+        'simpy'
     ], 
 ) 
